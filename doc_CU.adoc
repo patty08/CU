@@ -3,7 +3,7 @@
 :toclevels: 3
 
 
-= CloudUnit documentationAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+= CloudUnit documentation
 Welcome to CloudUnit documentation, it can help you to set up CloudUnit, learn about the system, or get your applications and workloads running on CloudUnit. To learn the basics of what CloudUnit is and how it works.
 This document lets you try out CloudUnit right out of your web browser, using the cloudunit plateforme. Learn about the CloudUnit system and deploy, expose, scale, and upgrade a containerized application in just a few minutes.
 
